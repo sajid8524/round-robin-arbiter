@@ -109,18 +109,6 @@ The report includes:
 - Professional report generation and tool command documentation  
 
 ---
-
-## 👨‍💻 **Author**
-
-**D. Sajid Ali**  
-B.Tech, Electronics and Communication Engineering  
-IIITDM Kurnool  
-📧 *Contact details can be added here if desired*
-
----
-
-
-
 ## 🧰 **Tools and Technologies**
 
 - **Cadence Genus** – Logic Synthesis  
@@ -140,4 +128,13 @@ The final layout passed all physical verification checks (DRC, LVS, Antenna) and
 This project demonstrates an end-to-end ASIC flow and provides a solid foundation for future work in **digital design**, **NoC arbitration**, and **VLSI physical implementation**.
 
 ---
+## 👨‍💻 **Author**
+
+**D. Sajid Ali**  
+B.Tech, Electronics and Communication Engineering  
+IIITDM Kurnool  
+
+
+---
+
 
