@@ -87,19 +87,6 @@ Despite being implemented in an older process node, the proposed WRR Arbiter ach
 
 ---
 
-## 🧾 **Physical Verification Snapshots**
-
-### 🔹 DRC, LVS, and Antenna Checks
-| DRC Check | LVS Check | Antenna Check |
-|------------|------------|----------------|
-| ![DRC](images/drc_check.png) | ![LVS](images/connectivity_check.png) | ![Antenna](images/antenna_check.png) |
-
-### 🔹 Final Layout and GDSII
-![Final Layout](images/final_layout.png)
-![GDS Output](images/gds_output.png)
-
----
-
 ## 📘 **Project Report**
 
 📄 [**Download Full Report (PDF)**](./wrr_report.pdf)
