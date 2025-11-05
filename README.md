@@ -112,8 +112,7 @@ The report includes:
 ## 🧰 **Tools and Technologies**
 
 - **Cadence Genus** – Logic Synthesis  
-- **Cadence Innovus** – Physical Design  
-- **Cadence PVS** – Physical Verification  
+- **Cadence Innovus** – Physical Design   
 - **Verilog HDL** – RTL Modeling  
 - **Xcelium** – Simulation  
 - **GDSII** – Final Layout Format  
